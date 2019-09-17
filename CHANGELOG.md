@@ -12,7 +12,7 @@ Initial Release
     CHANGELOG.md
 ## Changed
     **Changed**
-    Instructions in README.md were added to understan how does it work the project
+    Instructions in README.md were added to understand and how does it work the project
     README.md bash format was corrected
 ## contributors
     Vicente Yah Dzul
